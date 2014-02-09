@@ -1,0 +1,68 @@
+[
+    {
+        "detail_only_data1": "data only sent in detail mode",
+        "detail_only_data2": "data only sent in detail mode",
+        "ro_i": "JPSOM001038",
+        "name_i": "(株)日本電機ｻｰﾋﾞｽ(千葉営)",
+        "model_i": "7982JW",
+        "phone1_i": "0432325132",
+        "phone2_i": "",
+        "serial_number_i": "M50512561",
+        "vin_i": ""
+    },
+    {
+        "detail_only_data1": "data only sent in detail mode",
+        "detail_only_data2": "data only sent in detail mode",
+        "ro_i": "USATR012798",
+        "name_i": "BRIAN",
+        "model_i": "08601-00834",
+        "phone1_i": "",
+        "phone2_i": "",
+        "serial_number_i": "M41122362",
+        "vin_i": "JT3VN39W0S8087998"
+    },
+    {
+        "detail_only_data1": "data only sent in detail mode",
+        "detail_only_data2": "data only sent in detail mode",
+        "ro_i": "USATR012799",
+        "name_i": "BRIAN",
+        "model_i": "08601-00834",
+        "phone1_i": "",
+        "phone2_i": "",
+        "serial_number_i": "M41122399",
+        "vin_i": "JT3VN39W0S8087999"
+    },
+    {
+        "detail_only_data1": "data only sent in detail mode",
+        "detail_only_data2": "data only sent in detail mode",
+        "ro_i": "USATR012800",
+        "name_i": "BRIAN",
+        "model_i": "08601-00834",
+        "phone1_i": "",
+        "phone2_i": "",
+        "serial_number_i": "M41122366",
+        "vin_i": "JT3VN39W0S8087800"
+    },
+    {
+        "detail_only_data1": "data only sent in detail mode",
+        "detail_only_data2": "data only sent in detail mode",
+        "ro_i": "JPALT000031",
+        "name_i": "1",
+        "model_i": "CDA-7848J",
+        "phone1_i": "10510",
+        "phone2_i": "",
+        "serial_number_i": "M70911925A",
+        "vin_i": ""
+    },
+    {
+        "detail_only_data1": "data only sent in detail mode",
+        "detail_only_data2": "data only sent in detail mode",
+        "ro_i": "JPSSP000210",
+        "name_i": "小玉",
+        "model_i": "NVA-S055",
+        "phone1_i": "0117628602",
+        "phone2_i": "",
+        "serial_number_i": "B61112109",
+        "vin_i": ""
+    }
+]
